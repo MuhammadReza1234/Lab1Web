@@ -34,7 +34,7 @@ berikut syntaxnya:
 
 Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
-![IMG_20231001_220106](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/fd8edc59-cf8c-4075-bf5e-fcdde6154d81)
+![IMG_20231001_220106](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/82cd1fce-669e-4075-baf0-76df767d6d27)
 
 ---
 
@@ -59,7 +59,7 @@ Berikut contoh syntax untuk mengatur paragraf menjadi rata tengah:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
-![IMG_20231001_220351](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/32710061-879a-42dd-8bb1-bcaf8de75709)
+![IMG_20231001_220351](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/d4b27805-ca7b-4a8b-ad69-44583e2b1a81)
 
 ---
 
@@ -93,7 +93,7 @@ Berikut contoh syntax penggunaan `<h1>` dan `<h2>`:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
-![IMG_20231001_220456](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/ee96e317-32e1-4f2d-8ec3-3bbfcea4f84e)
+![IMG_20231001_220456](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/6872aacd-3c09-45f4-bb27-a167a8dc1a77)
 
 ---
 
@@ -129,7 +129,7 @@ Berikut syntaxnya:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
-![IMG_20231001_220608](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/80661471-db19-4ace-8804-4de27730c689)
+![IMG_20231001_220608](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/6369f944-03ec-427a-8abd-55752e53a5b9)
 
 ---
 
@@ -147,7 +147,7 @@ Berikut contoh syntaxnya:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
-![IMG_20231001_220710](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/915fe053-d92d-4fe9-abe7-34ee4d28db27)
+![IMG_20231001_220710](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/417a6bf6-7a54-446d-be20-c1cf75b68567)
 
 ---
 
@@ -166,7 +166,7 @@ Berikut contoh syntaxnya:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya (ada di bagian paling atas halaman web)
 
-![IMG_20231001_220911](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/9854086b-af93-4040-9460-05988a011ad3)
+![IMG_20231001_220911](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/154385fd-cf52-4248-b88d-aeb3136f11c7)
 
 ---
 
