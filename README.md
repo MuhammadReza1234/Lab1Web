@@ -34,7 +34,7 @@ berikut syntaxnya:
 
 Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
-![IMG-20231001-WA0014](https://github.com/rniarzz/Lab1Web/assets/115542704/38c66321-baa5-4e99-8ba0-dcff47094979)
+![IMG_20231001_220106](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/fd8edc59-cf8c-4075-bf5e-fcdde6154d81)
 
 ---
 
@@ -59,8 +59,7 @@ Berikut contoh syntax untuk mengatur paragraf menjadi rata tengah:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
-![IMG-20231001-WA0007](https://github.com/rniarzz/Lab1Web/assets/115542704/4b937f74-f37e-4c03-b902-712949663b54)
-
+![IMG_20231001_220351](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/32710061-879a-42dd-8bb1-bcaf8de75709)
 
 ---
 
@@ -94,8 +93,7 @@ Berikut contoh syntax penggunaan `<h1>` dan `<h2>`:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
-![IMG-20231001-WA0010](https://github.com/rniarzz/Lab1Web/assets/115542704/5b64ca0e-20cd-4f1c-9aa4-aaf84ed32841)
-
+![IMG_20231001_220456](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/ee96e317-32e1-4f2d-8ec3-3bbfcea4f84e)
 
 ---
 
@@ -131,17 +129,13 @@ Berikut syntaxnya:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
-![IMG-20231001-WA0009](https://github.com/rniarzz/Lab1Web/assets/115542704/98e9d766-1ea7-41dd-b591-df84d499bf3e)
+![IMG_20231001_220608](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/80661471-db19-4ace-8804-4de27730c689)
 
 ---
 
 ## Menyisipkan Gambar
 
 Untuk menyisipkan gambar, HTML menyediakan tag khusus untuk dapat menampilkan gambar. Tag yang digunakan untuk menampilkan gambar adalah `<img>` dengan atribut `src` sebagai URL atau Path file gambar berada. Tag ini dapat memuat gambar dengan berbagai jenis ekstensi file gambar.
-
-Adapun atribut lain yang dapat digunakan untuk pengaturan gambar sebagai berikut:
-
-![IMG_20230930_133448](https://github.com/rniarzz/Lab1Web/assets/115542704/98be9bcb-17af-44d7-8091-608d0ccdcae3)
 
 Berikut contoh syntaxnya:
 
@@ -153,7 +147,7 @@ Berikut contoh syntaxnya:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
-![IMG-20231001-WA0008](https://github.com/rniarzz/Lab1Web/assets/115542704/4c0060b3-d3f4-4de9-bc12-be464475ba68)
+![IMG_20231001_220710](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/915fe053-d92d-4fe9-abe7-34ee4d28db27)
 
 ---
 
@@ -172,7 +166,7 @@ Berikut contoh syntaxnya:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya (ada di bagian paling atas halaman web)
 
-![IMG-20231001-WA0011](https://github.com/rniarzz/Lab1Web/assets/115542704/c3ac1a53-ebb5-4e27-8ca0-32ad877e81c9)
+![IMG_20231001_220911](https://github.com/MuhammadReza1234/Lab1Web/assets/115516607/9854086b-af93-4040-9460-05988a011ad3)
 
 ---
 
